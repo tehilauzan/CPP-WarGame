@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/WarGame_Thila.dir/main.cpp.o  -o WarGame_Thila 
