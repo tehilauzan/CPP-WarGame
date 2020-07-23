@@ -1,0 +1,3 @@
+/home/netanel/CLionProjects/WarGame_Thila/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/netanel/CLionProjects/WarGame_Thila/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/netanel/CLionProjects/WarGame_Thila/cmake-build-debug/CMakeFiles/WarGame_Thila.dir
